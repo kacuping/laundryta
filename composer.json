@@ -10,7 +10,7 @@
     "require": {
         "php": "^8.0.21",
         "andes2912/indobank": "^0.7.0",
-        "barryvdh/laravel-dompdf": "^2.0.0",
+        "barryvdh/laravel-dompdf": "^2.2",
         "guzzlehttp/guzzle": "^7.4",
         "laravel-notification-channels/telegram": "^2.1",
         "laravel/framework": "^9.0",

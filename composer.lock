@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4d34023b95a58a203fb06d222f0984b0",
+    "content-hash": "076850206bad89b749da42ce4e5a2f45",
     "packages": [
         {
             "name": "andes2912/indobank",
